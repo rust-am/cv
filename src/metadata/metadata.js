@@ -11,7 +11,7 @@ module.exports = {
 },
 
 skills: [
-  ['Comedy', '++++'],
+  ['Rails', '▓▓▓░░░51%'],
   ['Love', '++++'],
   ['Theater', '++++'],
   ['Tragedy', '++++'],
